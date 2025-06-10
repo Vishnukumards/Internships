@@ -1,0 +1,65 @@
+# 💼 The Sparks Foundation - Data Science and Business Analytics Internship
+
+Welcome to the repository containing all the tasks completed as part of **The Sparks Foundation** Data Science and Business Analytics internship.
+
+---
+
+## 📁 Repository Structure
+
+```bash
+.
+├── TASK 1 - SPARK INTERN.ipynb
+├── TASK 2 - SPARK INTERN.ipynb
+├── Task 3 SPAK INTERN.ipynb
+├── TASK 4 SPAK INTERN.ipynb
+├── TASK 5 SPARK INTERN.ipynb
+
+
+## ✅ Tasks Overview
+
+### 🔹 Task 1: Prediction using Supervised ML
+- **Objective**: Predict the percentage of a student based on the number of study hours.
+- **Algorithm**: Simple Linear Regression  
+- **Libraries**: Scikit-learn, Pandas, Matplotlib
+
+---
+
+### 🔹 Task 2: Prediction using Unsupervised ML
+- **Objective**: Predict the optimum number of clusters from the data using K-Means clustering.
+- **Algorithm**: K-Means Clustering  
+- **Libraries**: Scikit-learn, Matplotlib, Seaborn
+
+---
+
+### 🔹 Task 3: Exploratory Data Analysis - Retail
+- **Objective**: Perform EDA on a sample superstore dataset.
+- **Focus**: Sales trends, profitability, regional performance  
+- **Libraries**: Pandas, Matplotlib, Seaborn
+
+---
+
+### 🔹 Task 4: Exploratory Data Analysis - Terrorism
+- **Objective**: Analyze global terrorism data to derive insights and trends.
+- **Focus**: Most affected regions, attack types, yearly trends  
+- **Libraries**: Pandas, Plotly, Matplotlib
+
+---
+
+### 🔹 Task 5: Business Level Development
+- **Objective**: Build a business-level model or interactive dashboard.
+- **Tools**: Streamlit / Dash, Pandas, Plotly  
+- **Note**: Advanced or optional task
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Streamlit / Dash (Optional)
