@@ -1,4 +1,4 @@
-# KPMG AU Data Analytics Virtual Internship
+# KPMG AU Data Analytics Virtual Internship 
 
 ## 📊 Project: Customer Targeting Analysis
 
